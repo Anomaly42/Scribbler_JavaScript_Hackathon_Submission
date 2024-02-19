@@ -39,9 +39,9 @@
       "type": "html"
     },
     {
-      "code": "<p style=\"color:yellow\">WARNING: running all cells might cause the Julia Set program to not work; run all cells before Part II for the Julia Set program to run correctly.</p>",
+      "code": "<p style=\"color:yellow\">WARNING: running all cells might cause the Julia Set program to not work; only run cells before Part II for the Julia Set program to run correctly.</p>",
       "status": "",
-      "output": "<p style=\"color:yellow\">WARNING: running all cells might cause the Julia Set program to not work; run all cells before Part II for the Julia Set program to run correctly.</p>",
+      "output": "<p style=\"color:yellow\">WARNING: running all cells might cause the Julia Set program to not work; only run cells before Part II for the Julia Set program to run correctly.</p>",
       "type": "html"
     },
     {
